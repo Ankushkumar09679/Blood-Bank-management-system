@@ -143,5 +143,5 @@ docker exec -it backend node seedAdmin.js
 
 <img width="1920" height="1121" alt="image" src="https://github.com/user-attachments/assets/65110412-2e41-4c0f-824d-7ee9ebed91bb" />
 =======
-# Blood-Bank-management-system
+ Blood-Bank-management-system
 
